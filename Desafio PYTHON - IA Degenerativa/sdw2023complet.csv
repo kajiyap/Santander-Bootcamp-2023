@@ -1,0 +1,48 @@
+{
+  "id": 167,
+  "name": "Babi Mendes",
+  "account": {
+    "id": 169,
+    "number": "1342",
+    "agency": "080308-1",
+    "balance": 1200,
+    "limit": 10600
+  },
+  "card": {
+    "id": 161,
+    "number": "6180 **** **** 7139",
+    "limit": 10800
+  }
+}
+{
+  "id": 1,
+  "name": "Devweekerson",
+  "account": {
+    "id": 1,
+    "number": "01.097954-4",
+    "agency": "2030",
+    "balance": 624.12,
+    "limit": 1000
+  },
+  "card": {
+    "id": 1,
+    "number": "xxxx xxxx xxxx 1111",
+    "limit": 2000
+  }
+}
+{
+  "id": 187,
+  "name": "Vaness",
+  "account": {
+    "id": 189,
+    "number": "000002-2",
+    "agency": "0001",
+    "balance": 0,
+    "limit": 500
+  },
+  "card": {
+    "id": 181,
+    "number": "1111 1111 1112 1234",
+    "limit": 1500
+  },
+}
